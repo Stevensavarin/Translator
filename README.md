@@ -1,4 +1,5 @@
 # Translator
+![image](https://github.com/Stevensavarin/Translator/assets/137004357/95a2b08c-249d-4a95-bbf9-d047481ea4fa)
 
 Translator is a simple translation tool that allows you to translate text from one language to another. It's built using Python and the Google Translate API, providing you with quick and easy translations in various languages.
 
